@@ -1,0 +1,45 @@
+@charset "UFT-8";
+
+
+body{
+    background-color: rgba(4, 29, 29, 0.301);
+}
+
+h1{
+    color: bisque;
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+}
+
+h2{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: justify;
+    color: rgb(56, 36, 6);
+}
+h1#a {
+    text-align: center;
+    color: aqua;
+
+}
+.basico {
+    color: aqua;
+    background-color: black;
+    font-size: 20px;
+}
+.medio{
+    color: beige;
+    background-color: black;
+}
+.avancado {
+    color: black;
+    background-color: aliceblue;
+}

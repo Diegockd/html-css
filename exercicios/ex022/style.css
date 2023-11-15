@@ -1,0 +1,29 @@
+
+
+body{
+    background-image: url(Imagens/wallpaper002.jpg);
+}
+
+.quadrado {
+    border: 3px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: aquamarine;
+
+}
+
+#q1{
+    background-color: black;
+   
+}
+
+#q2{
+    background-image: linear-gradient(to bottom, yellow, blue);
+}
+
+#q3{
+    background-image: url(imagens/pattern004.png);
+
+}
